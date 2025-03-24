@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitSeven.osf" format="2">
+  <advance width="1197"/>
+  <outline>
+    <contour>
+      <point x="1190" y="975" type="line"/>
+      <point x="1218" y="1120" type="line"/>
+      <point x="208" y="1120" type="line"/>
+      <point x="127" y="714" type="line"/>
+      <point x="270" y="714" type="line"/>
+      <point x="339" y="898" type="line"/>
+      <point x="1000" y="898" type="line"/>
+      <point x="950" y="983" type="line"/>
+      <point x="62" y="-287" type="line"/>
+      <point x="301" y="-287" type="line"/>
+    </contour>
+  </outline>
+</glyph>

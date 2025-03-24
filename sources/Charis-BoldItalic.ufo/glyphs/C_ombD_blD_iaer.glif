@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblDiaer" format="2">
+  <unicode hex="F17A"/>
+  <anchor x="-184" y="-525" name="L"/>
+  <anchor x="260" y="1950" name="U"/>
+  <outline>
+    <component base="CombDiaer" xOffset="622" yOffset="450"/>
+  </outline>
+</glyph>

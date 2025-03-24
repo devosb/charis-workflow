@@ -7,4 +7,16 @@
 # name or J's organization's name should be added to AUTHORS.txt
 #
 # Names should be added to this file as:
-# Name <email address>
+Walt Agee https://software.sil.org/charis/about/contact/
+Jon Coblentz https://software.sil.org/charis/about/contact/
+Sharon Correll https://software.sil.org/charis/about/contact/
+Lorna Evans https://software.sil.org/charis/about/contact/
+Victor Gaultney https://software.sil.org/charis/about/contact/
+Bob Hallissy https://software.sil.org/charis/about/contact/
+Jonathan Kew https://software.sil.org/charis/about/contact/
+Martin Hosken https://software.sil.org/charis/about/contact/
+Miriam Martin https://software.sil.org/charis/about/contact/
+Annie Olsen https://software.sil.org/charis/about/contact/
+David Raymond https://software.sil.org/charis/about/contact/
+Becca Spalinger https://software.sil.org/charis/about/contact/
+Alan Ward https://software.sil.org/charis/about/contact/

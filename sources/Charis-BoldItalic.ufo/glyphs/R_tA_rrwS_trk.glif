@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtArrwStrk" format="2">
+  <advance width="1971"/>
+  <unicode hex="219B"/>
+  <outline>
+    <contour>
+      <point x="925" y="1010" type="line"/>
+      <point x="556" y="279" type="line"/>
+      <point x="665" y="223" type="line"/>
+      <point x="1034" y="955" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="551" type="line"/>
+      <point x="1645" y="551" type="line"/>
+      <point x="1213" y="381" type="line"/>
+      <point x="1250" y="287" type="line"/>
+      <point x="1848" y="545" type="line"/>
+      <point x="1848" y="684" type="line"/>
+      <point x="1250" y="942" type="line"/>
+      <point x="1213" y="848" type="line"/>
+      <point x="1645" y="678" type="line"/>
+      <point x="133" y="678" type="line"/>
+    </contour>
+  </outline>
+</glyph>

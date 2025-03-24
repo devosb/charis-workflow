@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CopSmEie" format="2">
+  <advance width="1205"/>
+  <unicode hex="2C89"/>
+  <outline>
+    <component base="CopCapEie" xScale="0.768" yScale="0.768" xOffset="25" yOffset="-5"/>
+  </outline>
+</glyph>

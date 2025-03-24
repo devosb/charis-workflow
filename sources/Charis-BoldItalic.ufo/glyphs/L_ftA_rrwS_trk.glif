@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftArrwStrk" format="2">
+  <advance width="1971"/>
+  <unicode hex="219A"/>
+  <outline>
+    <contour>
+      <point x="1843" y="551" type="line"/>
+      <point x="1843" y="678" type="line"/>
+      <point x="331" y="678" type="line"/>
+      <point x="763" y="848" type="line"/>
+      <point x="726" y="942" type="line"/>
+      <point x="128" y="684" type="line"/>
+      <point x="128" y="545" type="line"/>
+      <point x="726" y="287" type="line"/>
+      <point x="763" y="381" type="line"/>
+      <point x="331" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="1282" y="990" type="line"/>
+      <point x="913" y="259" type="line"/>
+      <point x="1014" y="207" type="line"/>
+      <point x="1383" y="939" type="line"/>
+    </contour>
+  </outline>
+</glyph>

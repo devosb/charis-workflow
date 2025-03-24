@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MathLftDblAngleBrac" format="2">
+  <advance width="1050"/>
+  <unicode hex="27EA"/>
+  <outline>
+    <contour>
+      <point x="620" y="-291" type="line"/>
+      <point x="620" y="-10" type="line"/>
+      <point x="190" y="670" type="line"/>
+      <point x="190" y="507" type="line"/>
+      <point x="620" y="1185" type="line"/>
+      <point x="620" y="1466" type="line"/>
+      <point x="64" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="986" y="-291" type="line"/>
+      <point x="986" y="-10" type="line"/>
+      <point x="556" y="670" type="line"/>
+      <point x="556" y="507" type="line"/>
+      <point x="986" y="1185" type="line"/>
+      <point x="986" y="1466" type="line"/>
+      <point x="430" y="588" type="line"/>
+    </contour>
+  </outline>
+</glyph>

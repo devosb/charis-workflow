@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblTildeLft" format="2">
+  <unicode hex="FE22"/>
+  <outline>
+    <contour>
+      <point x="0" y="1652" type="curve"/>
+      <point x="0" y="1810" type="line"/>
+      <point x="-123" y="1845"/>
+      <point x="-251" y="1876"/>
+      <point x="-400" y="1876" type="curve" smooth="yes"/>
+      <point x="-700" y="1876"/>
+      <point x="-856" y="1715"/>
+      <point x="-919" y="1601" type="curve"/>
+      <point x="-862" y="1566" type="line"/>
+      <point x="-802" y="1648"/>
+      <point x="-690" y="1756"/>
+      <point x="-500" y="1756" type="curve" smooth="yes"/>
+      <point x="-321" y="1756"/>
+      <point x="-167" y="1700"/>
+    </contour>
+  </outline>
+</glyph>
